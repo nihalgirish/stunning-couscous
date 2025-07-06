@@ -25,7 +25,7 @@ Whether you’re a student, intern, or solo founder, DRIVEN helps you capture yo
 
 ## Why DRIVEN?
 
-Because **discipline beats motivation**, and **consistency creates champions**. DRIVEN is your ruthless accountability partner — no fluff, just results.
+Because **discipline beats motivation**, and **consistency creates champions**. DRIVEN is your ruthless accountability partner —> no excuses, just results.
 
 ---
 
@@ -52,7 +52,7 @@ Because **discipline beats motivation**, and **consistency creates champions**. 
 
 ## License
 
-MIT License © [Your Name]
+MIT License © [Nihal Girish]
 
 ---
 
